@@ -13,6 +13,7 @@
 		120C57DB21EE462D005B2068 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 120C57DA21EE462D005B2068 /* Assets.xcassets */; };
 		120C57DE21EE462D005B2068 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 120C57DC21EE462D005B2068 /* LaunchScreen.storyboard */; };
 		120C57E121EE462D005B2068 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 120C57E021EE462D005B2068 /* main.m */; };
+		120C57EC21EE5D2F005B2068 /* AutoLayoutViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 120C57EB21EE5D2F005B2068 /* AutoLayoutViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		120C57DD21EE462D005B2068 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		120C57DF21EE462D005B2068 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		120C57E021EE462D005B2068 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		120C57EA21EE5D2F005B2068 /* AutoLayoutViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AutoLayoutViewController.h; sourceTree = "<group>"; };
+		120C57EB21EE5D2F005B2068 /* AutoLayoutViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AutoLayoutViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				120C57D421EE462B005B2068 /* ViewController.h */,
 				120C57D521EE462B005B2068 /* ViewController.m */,
 				120C57D721EE462B005B2068 /* Main.storyboard */,
+				120C57EA21EE5D2F005B2068 /* AutoLayoutViewController.h */,
+				120C57EB21EE5D2F005B2068 /* AutoLayoutViewController.m */,
 				120C57DA21EE462D005B2068 /* Assets.xcassets */,
 				120C57DC21EE462D005B2068 /* LaunchScreen.storyboard */,
 				120C57DF21EE462D005B2068 /* Info.plist */,
@@ -144,6 +149,7 @@
 				120C57D621EE462B005B2068 /* ViewController.m in Sources */,
 				120C57E121EE462D005B2068 /* main.m in Sources */,
 				120C57D321EE462B005B2068 /* AppDelegate.m in Sources */,
+				120C57EC21EE5D2F005B2068 /* AutoLayoutViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
